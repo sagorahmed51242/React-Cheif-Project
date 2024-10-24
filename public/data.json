@@ -1,0 +1,98 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Grilled Chicken",
+        "short_description": "Juicy grilled chicken breast with herbs.",
+        "ingredients": [
+            "550 g chicken breast",
+            "120 ml olive oil",
+            "2 cloves garlic, minced",
+            "1 tsp oregano",
+            "1 lemon, juiced",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 30,
+        "calories": 320,
+        "recipe_image": "https://i.ibb.co.com/RBckCtL/istockphoto-157526986-1024x1024.jpg"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Vegan Stir Fry",
+        "short_description": "Colorful veggies stir-fried with a tangy sauce.",
+        "ingredients": [
+            "200 g broccoli florets",
+            "1 bell pepper, sliced",
+            "1 onion, chopped",
+            "100 g snow peas",
+            "120 ml soy sauce",
+            "1 tbsp sesame oil"
+        ],
+        "preparing_time": 20,
+        "calories": 250,
+        "recipe_image": "https://i.ibb.co.com/8jx0jyn/istockphoto-1526711302-1024x1024.jpg"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "Classic Italian pasta with eggs, cheese, and pancetta.",
+        "ingredients": [
+            "400 g spaghetti",
+            "150 g pancetta",
+            "2 eggs",
+            "50 g parmesan cheese",
+            "1 clove garlic",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 25,
+        "calories": 400,
+        "recipe_image": "https://i.ibb.co.com/1ns4N1g/istockphoto-177413384-1024x1024.jpg"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Chicken Curry",
+        "short_description": "Rich and creamy chicken curry with Indian spices.",
+        "ingredients": [
+            "500 g chicken thighs",
+            "200 ml coconut milk",
+            "1 onion, chopped",
+            "2 tbsp curry powder",
+            "3 cloves garlic, minced",
+            "1 tbsp ginger, minced"
+        ],
+        "preparing_time": 30,
+        "calories": 450,
+        "recipe_image": "https://i.ibb.co.com/BykF873/istockphoto-177126541-1024x1024.jpg"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Margarita Pizza",
+        "short_description": "Traditional pizza with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": [
+            "1 pizza dough",
+            "200 g mozzarella cheese",
+            "3 tomatoes, sliced",
+            "Fresh basil leaves",
+            "2 tbsp olive oil",
+            "Salt to taste"
+        ],
+        "preparing_time": 40,
+        "calories": 600,
+        "recipe_image": "https://i.ibb.co.com/MgjK9b2/istockphoto-1414575281-1024x1024.jpg"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Avocado Toast",
+        "short_description": "Creamy avocado on crispy toast with a sprinkle of chili flakes.",
+        "ingredients": [
+            "1 avocado, mashed",
+            "2 slices whole grain bread",
+            "1 tsp chili flakes",
+            "1 tsp lemon juice",
+            "Salt and pepper to taste",
+            "1 tbsp olive oil"
+        ],
+        "preparing_time": 10,
+        "calories": 300,
+        "recipe_image": "https://i.ibb.co.com/L5HJf3M/istockphoto-1356266402-1024x1024.jpg"
+    }
+]
